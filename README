@@ -1,2 +1,14 @@
 This is a repository for various code snippets, test programs, sample code, etc.
 
+filesplitter_cmdline.py:
+This app takes in a source file, and splits it into two separate files, with
+odd lines in the first target file, and even lines in the second target file.
+
+kivy_pygame_test.py:
+Something to test if it is possible to capture image data from a PyGame screen.
+
+calc_attendance.py:
+Calculate attendance (working hours?) in a month.
+
+timestamp.py:
+Class to hold a time stamp.
