@@ -12,3 +12,7 @@ Calculate attendance (working hours?) in a month.
 
 timestamp.py:
 Class to hold a time stamp.
+
+instaresize.sh:
+Converts an image file to a JPEG file that is 1080 pixesl by 1080 pixesl,
+padded with black, for easy use with Instagram.
